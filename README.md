@@ -8,6 +8,6 @@ Saturated_Vapor_Pressure_Data.txt - CSV (comma deliminated) ascii file with the 
 
 Temp_Rate_Constant_kerr_Example_Data_CHM343.txt - CSV (comma deliminated) ascii file with the first line being the data column heading and associated units. This data was derived from 'An open-source, cross-platform resource for nonlinear least-squared curve fitting', Journal of Chemical Education, 2018, 95, 2273-2278 (DOI: 10.1021/acs.jchemed.8b00649).  The data was showing in figure 2A and 2C, and discussed in the section, 'Use Case 1: Temperature Dependence of Reaction Rate Constants According to the Arrhenius Equation'. 
 
+2024_08_21_Ar_4_Node_Freq.csv - CSV (comma deliminated) ascii file with the first line being the data column headings and associated units.  The resonance frequencies for four different acoustic interferometry spectra of Argon gas where determined using SciPy find_peak function.  The original spectral data can be found in the Acoustic_Interferometry repository: 2024_08_21_AI_2ft_Ar_Spectrum.txt, 2024_08_21_AI_2ft_Ar_Spectrum2.txt, 2024_08_21_AI_2ft_Ar_Spectrum3.txt, and 2024_08_21_AI_2ft_Ar_Spectrum4.txt
 
-
-
+2024_08_21_Sensors_Ar_Gas_Temp_Measurments.txt - CSV (comma deliminated) ascii file with the first line being the data column headings and associated units. This data is the recording of the thermocouple Ar gas temperature taken 5 times for statical analysis.  The temperature data was taken during the collection of Ar gas acoustic interferometry data (2024_08_21_AI_2ft_Ar_Sepctrum*.txt).
